@@ -19,46 +19,97 @@
       "Maduro e Clássico (0) → Jovem e Inovador (10)": 2
     },
     "perfil_de_audiencia": {
-      "Interesses": ["crescimento pessoal", "aprendizado", "evolução", "valorização da vida"],
+      "Interesses": [
+        "crescimento pessoal",
+        "aprendizado",
+        "evolução",
+        "valorização da vida"
+      ],
       "Faixa etária": "25 a 34 anos",
       "Gênero predominante": "80% masculino",
-      "Características principais": ["curioso", "responsável", "comprometido", "pessoas mais de boa", "gente com esperança"],
+      "Características principais": [
+        "curioso",
+        "responsável",
+        "comprometido",
+        "pessoas mais de boa",
+        "gente com esperança"
+      ],
       "Estilo de vida": "Possui família, evita excessos, busca equilíbrio",
       "Tom de comunicação": "Direcionado a homens para gerar identificação"
     },
     "atributos_de_marca": {
       "quer_ser": [
-        "educadora", "transformadora", "potente", "forte", "respeitada", "bem-sucedida", "crível", "honesta", "justa", "acessível para quem busca", "exclusiva mas não excludente"
+        "educadora",
+        "transformadora",
+        "potente",
+        "forte",
+        "respeitada",
+        "bem-sucedida",
+        "crível",
+        "honesta",
+        "justa",
+        "acessível para quem busca",
+        "exclusiva mas não excludente"
       ],
       "nao_quer_ser": [
-        "desorganizado", "mercenário", "guru", "bolsonarista", "picareta", "desonesto", "injusto", "coach", "incoerente", "vendido", "influenciador", "pablo marçal", "supérfluo", "burguês", "inocente"
+        "desorganizado",
+        "mercenário",
+        "guru",
+        "bolsonarista",
+        "picareta",
+        "desonesto",
+        "injusto",
+        "coach",
+        "incoerente",
+        "vendido",
+        "influenciador",
+        "pablo marçal",
+        "supérfluo",
+        "burguês",
+        "inocente"
       ]
     },
     "arquétipos": {
       "Porta-Voz": {
         "Classe": "Artista",
-        "Características": ["Comunicação", "Apresentação", "Convencimento"],
+        "Características": [
+          "Comunicação",
+          "Apresentação",
+          "Convencimento"
+        ],
         "Força Positiva": "Expõe sua causa com clareza e convence seguidores.",
         "Força Antagônica": "Pode ser percebido como manipulador se não for autêntico.",
         "Ação Orientadora": "Quem discorda de mim não é meu inimigo. — Leandro Karnal"
       },
       "Pirata": {
         "Classe": "Rebelde",
-        "Características": ["Articulação", "Obtenção", "Sagacidade"],
+        "Características": [
+          "Articulação",
+          "Obtenção",
+          "Sagacidade"
+        ],
         "Força Positiva": "Conquista com ousadia e se adapta rapidamente.",
         "Força Antagônica": "Corre o risco de viver sem estabilidade e planejamento.",
         "Ação Orientadora": "O que faz andar o barco não é a vela enfunada, mas o vento que não se vê. — Platão"
       },
       "Sociável": {
         "Classe": "Habitante",
-        "Características": ["Sociedade", "Relacionamento", "Colaboração"],
+        "Características": [
+          "Sociedade",
+          "Relacionamento",
+          "Colaboração"
+        ],
         "Força Positiva": "Consegue transitar entre diferentes grupos e gerar conexão genuína.",
         "Força Antagônica": "Pode se perder na necessidade de validação externa.",
         "Ação Orientadora": "Na era da informação, a invisibilidade é equivalente à morte. — Zygmunt Bauman"
       },
       "Estrategista": {
         "Classe": "Regente",
-        "Características": ["Planejamento", "Estrutura", "Organização"],
+        "Características": [
+          "Planejamento",
+          "Estrutura",
+          "Organização"
+        ],
         "Força Positiva": "Prevê cenários, organiza caminhos e age com controle.",
         "Força Antagônica": "Pode se perder na análise excessiva e hesitar na execução.",
         "Ação Orientadora": "Triunfam aqueles que sabem quando lutar e quando esperar. — Sun Tzu"
@@ -67,9 +118,19 @@
     "linha_editorial": {
       "Pilares": {
         "Vida Real": {
-          "Foco": ["autenticidade", "bastidores", "habilidades práticas", "desenvolvimento profissional"],
+          "Foco": [
+            "autenticidade",
+            "bastidores",
+            "habilidades práticas",
+            "desenvolvimento profissional"
+          ],
           "Temas": [
-            "Produção de conteúdo", "Habilidades e soft skills", "Saúde mental", "Mentalidade", "Dinheiro e investimento", "Empreendedorismo e negócios"
+            "Produção de conteúdo",
+            "Habilidades e soft skills",
+            "Saúde mental",
+            "Mentalidade",
+            "Dinheiro e investimento",
+            "Empreendedorismo e negócios"
           ],
           "Formatos": {
             "Reels e TikTok": "Insights aprofundados sobre produtividade e mentalidade",
@@ -79,9 +140,19 @@
           }
         },
         "Relacionamento e Ser Humano": {
-          "Foco": ["interação", "entretenimento", "trocas reais"],
+          "Foco": [
+            "interação",
+            "entretenimento",
+            "trocas reais"
+          ],
           "Temas": [
-            "Relacionamento e comunidade", "Tutoriais e dicas rápidas", "Lives e interações diretas", "Entretenimento e humor - memes", "Entrevistas", "Review", "React"
+            "Relacionamento e comunidade",
+            "Tutoriais e dicas rápidas",
+            "Lives e interações diretas",
+            "Entretenimento e humor - memes",
+            "Entrevistas",
+            "Review",
+            "React"
           ],
           "Formatos": {
             "Lives e interações diretas": "Tira-dúvidas e mentorias ao vivo",
@@ -91,9 +162,24 @@
           }
         },
         "Pensamento Criativo": {
-          "Foco": ["tecnologia", "inovação", "cultura digital", "tendências de mercado"],
+          "Foco": [
+            "tecnologia",
+            "inovação",
+            "cultura digital",
+            "tendências de mercado"
+          ],
           "Temas": [
-            "Tecnologia e criatividade", "Tendências", "UI/UX", "Ciência de dados", "Tecnologias emergentes", "Fintechs e criptomoedas", "Pensamento criativo", "Machine Learning e Big Data", "Cultura pop e geek", "Notícias e opinião", "Ferramentas e mídia"
+            "Tecnologia e criatividade",
+            "Tendências",
+            "UI/UX",
+            "Ciência de dados",
+            "Tecnologias emergentes",
+            "Fintechs e criptomoedas",
+            "Pensamento criativo",
+            "Machine Learning e Big Data",
+            "Cultura pop e geek",
+            "Notícias e opinião",
+            "Ferramentas e mídia"
           ],
           "Formatos": {
             "Mini doc (cinematográfico)": "Reflexões sobre inovação e criatividade",
@@ -101,63 +187,74 @@
             "Reels/Carrossel": "Insights sobre novas tecnologias e cultura digital",
             "Newsletter/Artigo no LinkedIn": "Análises e previsões sobre tecnologia e mercado",
             "Podcast/Videocast": "Discussões sobre o impacto da inovação na criatividade"
-			
-			    },
-			"tom_de_voz": {
-			"percepção_do_público": [
-			"otimistas", "engraçados", "gentis", "autoridade", "confiantes", "irreverentes", "maduros", "profissionais"
-			]
-			
-			"linguagem": {
-      "características": [
-        "informativa", "simples", "direta", "leve", "exemplificada", "humana", "figurativa", "educada"
-      ]
-		
-
-"tagline": [
-      "Transformar a vida das pessoas através do conhecimento",
-      "Transformar a vida das pessoas através do pensamento criativo",
-      "Pensamento criativo é inerente ao ser humano",
-      "Despertar a chama criativa em todo ser humano na Terra"
-    ],
-    "proposta_de_valor": {
-      "Conceito": "A marca acredita que o conhecimento e a educação são ferramentas de transformação, capazes de mudar vidas, elevar a consciência e tornar o aprendizado acessível para todos.",
-      "Pilares": [
-        "Democratizar o acesso ao conhecimento",
-        "Educação transforma vidas",
-        "Conhecimento é poder",
-        "Educação eleva a consciência das pessoas",
-        "Acessível para quem busca"
-      ]
-    },
-    "discurso": {
-      "Princípios": ["Justo, correto e coerente"],
-      "Temas": [
-        "Saúde mental e equilíbrio emocional",
-        "Conhecimento é poder",
-        "Acesso livre ao conhecimento para todos",
-        "PLORK - Play and Work (inspirado em Corita Kent)",
-        "Aprendizado contínuo e maturidade transformam vidas",
-        "Experiência não se compra, se constrói",
-        "Não existe atalho para o verdadeiro crescimento",
-        "A tecnologia como ferramenta para a criatividade"
-      ]
-
-		
-		 "identidade_visual": {
-      "Estilo": "Retro-futurista",
-      "Elementos visuais": [
-        "Uso de cores neon vibrantes e contrastantes",
-        "Efeitos de distorção digital e glitch art",
-        "Estética cyberpunk e psicodélica",
-        "Referências a tecnologias emergentes e cultura pop",
-        "Tipografia ousada e experimental",
-        "Mistura entre realismo e abstração futurista",
-        "Influências da estética dos anos 80 e 90 combinadas com inovação digital"
-      ],
-      "Inspiração": "O conceito de retro-futurismo reflete a fusão entre o passado e o futuro, traduzindo a conexão entre tecnologia, criatividade e identidade visual marcante."
-		
-		
+          }
+        },
+        "tom_de_voz": {
+          "percepção_do_público": [
+            "otimistas",
+            "engraçados",
+            "gentis",
+            "autoridade",
+            "confiantes",
+            "irreverentes",
+            "maduros",
+            "profissionais"
+          ],
+          "linguagem": {
+            "características": [
+              "informativa",
+              "simples",
+              "direta",
+              "leve",
+              "exemplificada",
+              "humana",
+              "figurativa",
+              "educada"
+            ]
+          },
+          "tagline": [
+            "Transformar a vida das pessoas através do conhecimento",
+            "Transformar a vida das pessoas através do pensamento criativo",
+            "Pensamento criativo é inerente ao ser humano",
+            "Despertar a chama criativa em todo ser humano na Terra"
+          ],
+          "proposta_de_valor": {
+            "Conceito": "A marca acredita que o conhecimento e a educação são ferramentas de transformação, capazes de mudar vidas, elevar a consciência e tornar o aprendizado acessível para todos.",
+            "Pilares": [
+              "Democratizar o acesso ao conhecimento",
+              "Educação transforma vidas",
+              "Conhecimento é poder",
+              "Educação eleva a consciência das pessoas",
+              "Acessível para quem busca"
+            ]
+          },
+          "discurso": {
+            "Princípios": [
+              "Justo, correto e coerente"
+            ],
+            "Temas": [
+              "Saúde mental e equilíbrio emocional",
+              "Conhecimento é poder",
+              "Acesso livre ao conhecimento para todos",
+              "PLORK - Play and Work (inspirado em Corita Kent)",
+              "Aprendizado contínuo e maturidade transformam vidas",
+              "Experiência não se compra, se constrói",
+              "Não existe atalho para o verdadeiro crescimento",
+              "A tecnologia como ferramenta para a criatividade"
+            ]
+          },
+          "identidade_visual": {
+            "Estilo": "Retro-futurista",
+            "Elementos visuais": [
+              "Uso de cores neon vibrantes e contrastantes",
+              "Efeitos de distorção digital e glitch art",
+              "Estética cyberpunk e psicodélica",
+              "Referências a tecnologias emergentes e cultura pop",
+              "Tipografia ousada e experimental",
+              "Mistura entre realismo e abstração futurista",
+              "Influências da estética dos anos 80 e 90 combinadas com inovação digital"
+            ],
+            "Inspiração": "O conceito de retro-futurismo reflete a fusão entre o passado e o futuro, traduzindo a conexão entre tecnologia, criatividade e identidade visual marcante."
           }
         }
       }
